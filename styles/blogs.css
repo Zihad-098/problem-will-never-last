@@ -24,3 +24,6 @@ h2 {
     box-shadow: 15px 15px 12px gray;
 
 }
+img{
+    border: 2px solid tomato;
+}
