@@ -1,0 +1,26 @@
+.blogs {
+    background-color: aquamarine;
+    border: 25px solid navajowhite;
+    border-radius: 25px;
+    margin: 25px;
+    padding: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    box-shadow: 15px 15px 12px gray;
+}
+h2 {
+    font-weight: bolder;
+    /* font-size: large; */
+    color: red;
+}
+.last {
+    background-color: purple;
+    border: 25px solid navy;
+    border-radius: 25px;
+    margin: 15px;
+    padding: 25px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    box-shadow: 15px 15px 12px gray;
+
+}
